@@ -1,0 +1,27 @@
+
+
+ul{
+  list-style-type: none;
+  margin:auto;
+  display:flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+
+
+.pokemonList__pokemon{
+  background-color:#ADD8E6;
+ 
+  width: 200px;
+  margin-right: 20px;
+
+}
+
+
+.types{
+
+  text-align: center;
+}
+
+
